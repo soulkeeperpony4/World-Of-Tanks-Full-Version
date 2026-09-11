@@ -239,3 +239,6 @@ This repository serves as the official landing page for World of Tanks. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of World of Tanks today!**
+
+---
+**Last updated:** 2026-09-11 12:28:05 UTC
