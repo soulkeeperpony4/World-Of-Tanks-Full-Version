@@ -241,4 +241,4 @@ This repository serves as the official landing page for World of Tanks. The soft
 **Get the most recent version of World of Tanks today!**
 
 ---
-**Last updated:** 2026-11-05 22:34:11 UTC
+**Last updated:** 2026-11-06 02:59:10 UTC
